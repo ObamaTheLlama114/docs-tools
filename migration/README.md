@@ -4,7 +4,7 @@ This repository contains the source code for the Prisma Docs Migration Script, t
 
 ## How to Run
 
-- setup you run environment
+- set up your run environment
 - go to the website to input data
 - edit the content directory
 - run the script
